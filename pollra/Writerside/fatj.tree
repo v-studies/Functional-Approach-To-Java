@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="fatj"
+                 name="functional-approach-to-java"
+                 start-page="01_함수형_프로그래밍_소개.md">
+
+    <toc-element topic="Guide-wriaterside.md"/>
+    <toc-element topic="01_함수형_프로그래밍_소개.md"/>
+</instance-profile>
