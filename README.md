@@ -19,29 +19,31 @@
 
 4주차(7/23)
 - CHAPTER 4 불변성
-- CHAPTER 5 레코드
 
 5주차(7/30) 
-- CHAPTER 6 스트림을 이용한 데이터 처리
+- CHAPTER 5 레코드
 
 6주차(8/6) 
-- CHAPTER 7 스트림 사용하기
+- CHAPTER 6 스트림을 이용한 데이터 처리
 
 7주차(8/13) 
-- CHAPTER 8 스트림을 활용한 병렬 데이터 처리
+- CHAPTER 7 스트림 사용하기
 
 8주차(8/20) 
-- CHAPTER 9 Optional을 사용한 null 처리
+- CHAPTER 8 스트림을 활용한 병렬 데이터 처리
 
 9주차(8/27) 
-- CHAPTER 10 함수형 예외 처리
+- CHAPTER 9 Optional을 사용한 null 처리
 
 10주차(9/3) 
-- CHAPTER 11 느긋한 계산법 (지연 평가)
+- CHAPTER 10 함수형 예외 처리
 
 11주차(9/10) 
+- CHAPTER 11 느긋한 계산법 (지연 평가)
+  
+12주차(9/17)
 - CHAPTER 12 재귀
 
-12주차(9/17)
+13주차(9/24)
 - CHAPTER 13 비동기 작업
 - CHAPTER 14 비함수형 디자인 패턴
