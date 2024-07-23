@@ -8,6 +8,7 @@
 
     <toc-element topic="Guide-wriaterside.md"/>
     <toc-element topic="01_함수형_프로그래밍_소개.md"/>
+    <toc-element topic="04-불변성.md"/>
     <toc-element topic="02-함수형-자바.md">
         <toc-element topic="외전-final-키워드-장점.md"/>
     </toc-element>
