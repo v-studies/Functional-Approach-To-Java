@@ -12,4 +12,5 @@
     <toc-element topic="02-함수형-자바.md">
         <toc-element topic="외전-final-키워드-장점.md"/>
     </toc-element>
+    <toc-element topic="05-레코드.md"/>
 </instance-profile>
