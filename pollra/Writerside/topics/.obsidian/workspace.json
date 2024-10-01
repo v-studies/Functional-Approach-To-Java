@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "f94db8f72666d92c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf1e0598e8139309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c214fe3768c18235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11-느긋한 계산법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c2723b642b38e54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14-함수형 디자인 패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41234e393d65bd0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f31f0e7324693a57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "074ab71f7cf9b038",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04146a68c9a18006",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d4fd9aef39db3dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "e82d86d13d57a62e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b00feb848058105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bb3bdacdc7f8d63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "14-함수형 디자인 패턴.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "384d38ac08093ad8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "14-함수형 디자인 패턴.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92a24286e53b3e01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ac17ac2d5a40eab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "14-함수형 디자인 패턴.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "4c2723b642b38e54",
+  "lastOpenFiles": [
+    "무제 파일.canvas",
+    "Guide-wriaterside.md",
+    "14-함수형 디자인 패턴.md",
+    "무제 파일.md",
+    "11-느긋한 계산법.md",
+    "06-스트림.md",
+    "05-레코드.md",
+    "04-불변성.md",
+    "01_함수형_프로그래밍_소개.md",
+    "02-함수형-자바.md",
+    "08-01. JSR-133.md",
+    "08-스트림을 활용한 병렬 데이터 처리.md",
+    "07-02. groupingBy 과정 코드 분석.md",
+    "07-01. 왜 성능 저하가 일어 나는가? 아 완벽히 이해했다 <-(이해 못함).md",
+    "07-스트림의 활용.md",
+    "외전-final-키워드-장점.md",
+    "스크린샷 2024-08-10 오후 7.40.00.png",
+    "스크린샷_2024-08-03_오후_6.04.52.png",
+    "스크린샷 2024-08-11 오전 12.04.22.png",
+    "스크린샷 2024-08-11 오전 12.02.47.png",
+    "AmdahlsLaw.svg.png",
+    "2024-08-11.md",
+    "아_완벽히_이해했어.jpeg",
+    "무제 폴더"
+  ]
+}
