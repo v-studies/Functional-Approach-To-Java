@@ -8,31 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c214fe3768c18235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11-느긋한 계산법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4c2723b642b38e54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "14-함수형 디자인 패턴.md",
-                "mode": "source",
-                "source": false
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14-함수형 디자인 패턴.md",
+                "file": "무제 파일.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14-함수형 디자인 패턴.md",
+                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14-함수형 디자인 패턴.md"
+                "file": "무제 파일.canvas"
               }
             }
           }
@@ -162,18 +152,20 @@
   },
   "active": "4c2723b642b38e54",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "AmdahlsLaw.svg.png",
+    "08-스트림을 활용한 병렬 데이터 처리.md",
+    "08-01. JSR-133.md",
+    "14-함수형 디자인 패턴.md",
+    "11-느긋한 계산법.md",
+    "2024-08-11.md",
     "무제 파일.canvas",
     "Guide-wriaterside.md",
-    "14-함수형 디자인 패턴.md",
-    "무제 파일.md",
-    "11-느긋한 계산법.md",
     "06-스트림.md",
     "05-레코드.md",
     "04-불변성.md",
     "01_함수형_프로그래밍_소개.md",
     "02-함수형-자바.md",
-    "08-01. JSR-133.md",
-    "08-스트림을 활용한 병렬 데이터 처리.md",
     "07-02. groupingBy 과정 코드 분석.md",
     "07-01. 왜 성능 저하가 일어 나는가? 아 완벽히 이해했다 <-(이해 못함).md",
     "07-스트림의 활용.md",
@@ -182,8 +174,6 @@
     "스크린샷_2024-08-03_오후_6.04.52.png",
     "스크린샷 2024-08-11 오전 12.04.22.png",
     "스크린샷 2024-08-11 오전 12.02.47.png",
-    "AmdahlsLaw.svg.png",
-    "2024-08-11.md",
     "아_완벽히_이해했어.jpeg",
     "무제 폴더"
   ]
