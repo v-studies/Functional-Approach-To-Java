@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c207c88e9eec2ed8",
+        "id": "cf1e0598e8139309",
         "type": "tabs",
         "children": [
           {
-            "id": "12a3a9e2d3841977",
+            "id": "4c2723b642b38e54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-스트림을 활용한 병렬 데이터 처리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ce13dbfabd1b747",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-01. JSR-133.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08-스트림을 활용한 병렬 데이터 처리.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08-스트림을 활용한 병렬 데이터 처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "08-스트림을 활용한 병렬 데이터 처리.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,26 +139,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "12a3a9e2d3841977",
+  "active": "4c2723b642b38e54",
   "lastOpenFiles": [
-    "08-01. JSR-133.md",
-    "08-스트림을 활용한 병렬 데이터 처리.md",
-    "AmdahlsLaw.svg.png",
-    "07-스트림의 활용.md",
     "06-스트림.md",
-    "07-01. 왜 성능 저하가 일어 나는가? 아 완벽히 이해했다 <-(이해 못함).md",
-    "무제 파일.md",
     "07-02. groupingBy 과정 코드 분석.md",
+    "무제 파일.md",
     "무제 파일.canvas",
-    "2024-08-11.md",
+    "Guide-wriaterside.md",
+    "14-함수형 디자인 패턴.md",
+    "11-느긋한 계산법.md",
+    "아_완벽히_이해했어.jpeg",
+    "스크린샷_2024-08-03_오후_6.04.52.png",
     "스크린샷 2024-08-11 오전 12.04.22.png",
     "스크린샷 2024-08-11 오전 12.02.47.png",
-    "아_완벽히_이해했어.jpeg",
     "스크린샷 2024-08-10 오후 7.40.00.png",
-    "무제 폴더",
-    "스크린샷_2024-08-03_오후_6.04.52.png",
+    "AmdahlsLaw.svg.png",
+    "08-스트림을 활용한 병렬 데이터 처리.md",
+    "08-01. JSR-133.md",
+    "07-스트림의 활용.md",
+    "07-01. 왜 성능 저하가 일어 나는가? 아 완벽히 이해했다 <-(이해 못함).md",
+    "2024-08-11.md",
+    "05-레코드.md",
+    "04-불변성.md",
+    "01_함수형_프로그래밍_소개.md",
+    "02-함수형-자바.md",
     "외전-final-키워드-장점.md",
-    "Guide-wriaterside.md",
-    "05-레코드.md"
+    "무제 폴더"
   ]
 }
